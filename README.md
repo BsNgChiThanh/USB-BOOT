@@ -50,7 +50,7 @@ Như vậy, các bạn đã biết cách tạo USB cài/boot Windows bằng ph�
 
 **Refus không thể đáp ứng trong trường hợp này, vì nó sẽ format tất cả dữ liệu trong ổ cứng di động cho dù bạn có chia nó làm nhiều đĩa**
 
-**Đầu tiên phân ổ đĩa cứng thành một ổ nhỏ khoản 8-16G để làm Boot khởi động với định dạng FAT32 và Primery bằng cách dùng [Partition Wizard Portable 12.0](https://bsthanh-my.sharepoint.com/:u:/g/personal/laptopxiaomi_bsthanh_tk/ETHjOWXpzY5OgarnNd0FTY8BJ7_dgt5lyrKqtS9DRVuavA?e=4ZN1AO) nếu chưa biết dùng tham khảo [tại đây](http://thuthuatphanmem.vn/cach-chia-phan-vung-o-cung-bang-phan-mem-minitool-partition-wizard/)**
+**Đầu tiên phân ổ đĩa cứng thành một ổ nhỏ khoản 8-16G để làm Boot khởi động với định dạng FAT32 và Primery bằng cách dùng [Partition Wizard Portable 12](https://bsthanh-my.sharepoint.com/:u:/g/personal/laptopxiaomi_bsthanh_tk/ETHjOWXpzY5OgarnNd0FTY8BJ7_dgt5lyrKqtS9DRVuavA?e=4ZN1AO) nếu chưa biết dùng tham khảo [tại đây](http://thuthuatphanmem.vn/cach-chia-phan-vung-o-cung-bang-phan-mem-minitool-partition-wizard/)**
 
 Tiếp theo: Copy tất cả những gì có trong file NHV-BOOT-2022-945-EXTREME.iso hoặc các file iso boot winPE vào ổ đó.
 
