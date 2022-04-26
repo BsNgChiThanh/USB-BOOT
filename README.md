@@ -46,6 +46,8 @@ Như vậy, các bạn đã biết cách tạo USB cài/boot Windows bằng ph�
 
 # TẠO BOOT CHO Ổ CỨNG DI ĐỘNG #
 
+![1](https://user-images.githubusercontent.com/82578024/165237549-0a3579a7-2135-47b2-aba7-ce8c6c392a10.jpg)
+
 **Refus không thể đáp ứng trong trường hợp này, vì nó sẽ format tất cả dữ liệu trong ổ cứng di động cho dù bạn có chia nó làm nhiều đĩa**
 
 **Đầu tiên phân ổ đĩa cứng thành một ổ nhỏ khoản 8-16G để làm Boot khởi động với định dạng FAT32 và Primery bằng cách dùng [Partition Wizard nếu chưa biết dùng tham khảo tại đây](http://thuthuatphanmem.vn/cach-chia-phan-vung-o-cung-bang-phan-mem-minitool-partition-wizard/)**
