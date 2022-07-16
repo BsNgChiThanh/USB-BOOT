@@ -15,6 +15,8 @@ Trên mạng có rất nhiều USB boot của các tác giả khác nhau, tùy b
 
 **[NHV Boot](https://bsthanh-my.sharepoint.com/:u:/g/personal/0914678254_bsthanh_tk/EeDVbDKDngNOhW5TdDaPPHIBk8GPc8OQAmUc7pHr1iJnPA?e=THUOh2)**
 
+**[HKBoot](https://bsthanh-my.sharepoint.com/:u:/g/personal/0914678254_bsthanh_tk/EUsXa9z3n0xOr9fPniFm9GoB6cslVjpnCbSUpqCfuVa1xw?e=2nJYE2)**
+
 **[Một số source khác](https://bsthanh-my.sharepoint.com/:t:/g/personal/laptopxiaomi_bsthanh_tk/EYpb9TWF0HZCmIdOoofHwTcBoXS2pRHfdK_R4kjadUGDtQ?e=aBbdtm)**
 
 # TẠO BOOT CHO USB BẰNG REFUS #
