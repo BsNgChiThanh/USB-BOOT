@@ -17,6 +17,8 @@ Trên mạng có rất nhiều USB boot của các tác giả khác nhau, tùy b
 
 **[HKBoot](https://bsthanh-my.sharepoint.com/:u:/g/personal/0914678254_bsthanh_tk/EUsXa9z3n0xOr9fPniFm9GoB6cslVjpnCbSUpqCfuVa1xw?e=2nJYE2)**
 
+**[NKBoot_2022_V1.0_Pro]()**
+
 **[Một số source khác](https://bsthanh-my.sharepoint.com/:t:/g/personal/laptopxiaomi_bsthanh_tk/EYpb9TWF0HZCmIdOoofHwTcBoXS2pRHfdK_R4kjadUGDtQ?e=aBbdtm)**
 
 # TẠO BOOT CHO USB BẰNG REFUS #
