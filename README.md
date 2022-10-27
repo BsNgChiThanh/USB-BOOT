@@ -9,6 +9,8 @@ Trên mạng có rất nhiều USB boot của các tác giả khác nhau, tùy b
 
 **[NasiBoot](https://bsthanh-my.sharepoint.com/:u:/g/personal/0914678254_bsthanh_tk/EXYpxe6W2DNEo0U21xzuQN4BC26MgoxdirwHHiQ_MPNm6Q?e=LpW8rK)**
 
+**[BinsiBoot](https://bsthanh-my.sharepoint.com/:f:/g/personal/0914678254_bsthanh_tk/EsI0ANCwDc1GoGCri0KoB0MBDWt9gtR-uHHR7lcYmn1_qQ?e=pkLPtj)**
+
 **[MCboot](https://bsthanh-my.sharepoint.com/:u:/g/personal/0914678254_bsthanh_tk/EQlvuZHJAu5Ph6_St46PwWcBtTikfEbIijwWvdnZQT5zxQ?e=Wcr2Nt)**
 
 **[Hiren Boot](https://bsthanh-my.sharepoint.com/:u:/g/personal/0914678254_bsthanh_tk/EdeQLS4YD1dPpWt56jx-hDkB_79VBYVB_vnBmZS8zlgg5g?e=OgZ3a5)**
@@ -24,6 +26,8 @@ Trên mạng có rất nhiều USB boot của các tác giả khác nhau, tùy b
 # TẠO BOOT CHO USB BẰNG REFUS #
 
 Dùng [Refus.exe](https://bsthanh-my.sharepoint.com/:u:/g/personal/0914678254_bsthanh_tk/EXuFKvk2Er9Gjzn25U7wds8BtwbexjvBw1fwNXgsI3cRLA?e=cjtZYb) tạo boot cho USB thật tiện lợi.
+
+**[Một số bản Refus](https://bsthanh-my.sharepoint.com/:f:/g/personal/0914678254_bsthanh_tk/EpwJQroh3TxFnFFpCLB9htABmIGlcirpiCm7u9-TTruXJw?e=vSyV7m)**
 
 Bước 1: Mở Rufus, thiết lập thông số tạo USB boot, tại giao diện của Rufus, mục Device, bạn chọn USB của mình. Trong Boot selection bạn chọn Disk or ISO image, rồi nhấn SELECT để duyệt và chọn file ISO.
 
