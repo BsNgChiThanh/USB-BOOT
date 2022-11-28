@@ -23,6 +23,8 @@ Trên mạng có rất nhiều USB boot của các tác giả khác nhau, tùy b
 
 **[Một số source khác](https://bsthanh-my.sharepoint.com/:t:/g/personal/laptopxiaomi_bsthanh_tk/EYpb9TWF0HZCmIdOoofHwTcBoXS2pRHfdK_R4kjadUGDtQ?e=aBbdtm)**
 
+https://user-images.githubusercontent.com/82578024/204214048-2631b3be-dab4-4797-b1c3-a20a1e0ab095.mp4
+
 # TẠO BOOT CHO USB BẰNG REFUS #
 
 Dùng [Refus.exe](https://bsthanh-my.sharepoint.com/:u:/g/personal/0914678254_bsthanh_tk/EXuFKvk2Er9Gjzn25U7wds8BtwbexjvBw1fwNXgsI3cRLA?e=cjtZYb) tạo boot cho USB thật tiện lợi.
