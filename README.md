@@ -5,7 +5,7 @@ Trên mạng có rất nhiều USB boot của các tác giả khác nhau, tùy b
 
 # SOURCE TẠO USB BOOT #
 
-**[Anhdv Boot](https://bsthanh-my.sharepoint.com/:u:/g/personal/0914678254_bsthanh_tk/EfgG7L55mpdGpQoPqu5NWDgBYplrIQDJ8HEAnIqn3pmXFA?e=9mkbzn), link [dự phòng](https://bsthanh-my.sharepoint.com/:f:/g/personal/0914678254_bsthanh_tk/EtOQ3sja3ztPmvvbsSQDKTgBTgOWUNVWVRSU9Pz9IAExLA?e=33SNpx)**
+**[Anhdv Boot](https://bsthanh-my.sharepoint.com/:f:/g/personal/0914678254_bsthanh_tk/EtOQ3sja3ztPmvvbsSQDKTgBTgOWUNVWVRSU9Pz9IAExLA?e=33SNpx)**
 
 **[NasiBoot](https://bsthanh-my.sharepoint.com/:u:/g/personal/0914678254_bsthanh_tk/EXYpxe6W2DNEo0U21xzuQN4BC26MgoxdirwHHiQ_MPNm6Q?e=LpW8rK)**
 
@@ -15,7 +15,7 @@ Trên mạng có rất nhiều USB boot của các tác giả khác nhau, tùy b
 
 **[Hiren Boot](https://bsthanh-my.sharepoint.com/:u:/g/personal/0914678254_bsthanh_tk/EdeQLS4YD1dPpWt56jx-hDkB_79VBYVB_vnBmZS8zlgg5g?e=OgZ3a5)**
 
-**[NHV Boot](https://bsthanh-my.sharepoint.com/:u:/g/personal/0914678254_bsthanh_tk/EeDVbDKDngNOhW5TdDaPPHIBk8GPc8OQAmUc7pHr1iJnPA?e=THUOh2), link [dự phòng](https://bsthanh-my.sharepoint.com/:f:/g/personal/0914678254_bsthanh_tk/Ev5N8Tm0sLVMn2t-yF5c3CkBgC9p-KFt9GPjNkXQ-WXHDQ?e=BfLZ2g)**
+**[NHV Boot](https://bsthanh-my.sharepoint.com/:f:/g/personal/0914678254_bsthanh_tk/Ev5N8Tm0sLVMn2t-yF5c3CkBgC9p-KFt9GPjNkXQ-WXHDQ?e=BfLZ2g)**
 
 **[HKBoot](https://bsthanh-my.sharepoint.com/:u:/g/personal/0914678254_bsthanh_tk/EUsXa9z3n0xOr9fPniFm9GoB6cslVjpnCbSUpqCfuVa1xw?e=2nJYE2)**
 
