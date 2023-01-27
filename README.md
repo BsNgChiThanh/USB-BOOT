@@ -17,7 +17,7 @@ Trên mạng có rất nhiều USB boot của các tác giả khác nhau, tùy b
 
 **[NHV Boot](https://bsthanh-my.sharepoint.com/:f:/g/personal/0914678254_bsthanh_tk/Ev5N8Tm0sLVMn2t-yF5c3CkBgC9p-KFt9GPjNkXQ-WXHDQ?e=BfLZ2g)**
 
-**[HKBoot](https://bsthanh-my.sharepoint.com/:u:/g/personal/0914678254_bsthanh_tk/EUsXa9z3n0xOr9fPniFm9GoB6cslVjpnCbSUpqCfuVa1xw?e=2nJYE2)**
+**[HKBoot](https://bsthanh-my.sharepoint.com/:u:/g/personal/0914678254_bsthanh_tk/EUsXa9z3n0xOr9fPniFm9GoB6cslVjpnCbSUpqCfuVa1xw?e=2nJYE2)** **NHV Boot vô trang chủ có thể download [bản Free](https://nhvboot.com/download/)**
 
 **[NKBoot_2022_V1.0_Pro](https://bsthanh-my.sharepoint.com/:u:/g/personal/0914678254_bsthanh_tk/EbHXKwnXfeBEoxbOHgfn7PwB97mSPNtOeSxmELg0y38sMw?e=LYGh0a)**
 
