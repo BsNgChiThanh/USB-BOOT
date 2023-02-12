@@ -5,24 +5,24 @@ Trên mạng có rất nhiều USB boot của các tác giả khác nhau, tùy b
 
 # SOURCE TẠO USB BOOT #
 
-1. **[Anhdv Boot](https://bsthanh-my.sharepoint.com/:f:/g/personal/0914678254_bsthanh_tk/EtOQ3sja3ztPmvvbsSQDKTgBTgOWUNVWVRSU9Pz9IAExLA?e=33SNpx)** **hoặc có thể vô trang chủ Anhdv Boot [download bản Free mới nhất](https://anhdvboot.com/tai-ve/)**
-2. **[NasiBoot](https://bsthanh-my.sharepoint.com/:u:/g/personal/0914678254_bsthanh_tk/EXYpxe6W2DNEo0U21xzuQN4BC26MgoxdirwHHiQ_MPNm6Q?e=LpW8rK)** **trang chủ [NasiBoot](https://nasiboot.com/)**
-3. **[BinsiBoot](https://bsthanh-my.sharepoint.com/:f:/g/personal/0914678254_bsthanh_tk/EsI0ANCwDc1GoGCri0KoB0MBDWt9gtR-uHHR7lcYmn1_qQ?e=pkLPtj)**
-4. **[MCboot](https://bsthanh-my.sharepoint.com/:u:/g/personal/0914678254_bsthanh_tk/EQlvuZHJAu5Ph6_St46PwWcBtTikfEbIijwWvdnZQT5zxQ?e=Wcr2Nt)**
-5. **[Hiren Boot](https://bsthanh-my.sharepoint.com/:u:/g/personal/0914678254_bsthanh_tk/EdeQLS4YD1dPpWt56jx-hDkB_79VBYVB_vnBmZS8zlgg5g?e=OgZ3a5)** **hoặc vô trang chủ [download](https://www.hirensbootcd.org/download/)**
-6. **[NHV Boot bản Extreme](https://bsthanh-my.sharepoint.com/:f:/g/personal/0914678254_bsthanh_tk/Ev5N8Tm0sLVMn2t-yF5c3CkBgC9p-KFt9GPjNkXQ-WXHDQ?e=BfLZ2g)** **hoặc NHV Boot vô trang chủ có thể download [bản Free mới nhất](https://nhvboot.com/download/)**
-7. **[HKBoot](https://bsthanh-my.sharepoint.com/:u:/g/personal/0914678254_bsthanh_tk/EUsXa9z3n0xOr9fPniFm9GoB6cslVjpnCbSUpqCfuVa1xw?e=2nJYE2)** 
-8. **[NKBoot_2022_V1.0_Pro](https://bsthanh-my.sharepoint.com/:u:/g/personal/0914678254_bsthanh_tk/EbHXKwnXfeBEoxbOHgfn7PwB97mSPNtOeSxmELg0y38sMw?e=LYGh0a)**
+1. **[Anhdv Boot](https://bsthanh-my.sharepoint.com/:f:/g/personal/0914678254_bsthanh_onmicrosoft_com/EtOQ3sja3ztPmvvbsSQDKTgBTgOWUNVWVRSU9Pz9IAExLA?e=33SNpx)** **hoặc có thể vô trang chủ Anhdv Boot [download bản Free mới nhất](https://anhdvboot.com/tai-ve/)**
+2. **[NasiBoot](https://bsthanh-my.sharepoint.com/:u:/g/personal/0914678254_bsthanh_onmicrosoft_com/EXYpxe6W2DNEo0U21xzuQN4BC26MgoxdirwHHiQ_MPNm6Q?e=LpW8rK)** **trang chủ [NasiBoot](https://nasiboot.com/)**
+3. **[BinsiBoot](https://bsthanh-my.sharepoint.com/:f:/g/personal/0914678254_bsthanh_onmicrosoft_com/EsI0ANCwDc1GoGCri0KoB0MBDWt9gtR-uHHR7lcYmn1_qQ?e=pkLPtj)**
+4. **[MCboot](https://bsthanh-my.sharepoint.com/:u:/g/personal/0914678254_bsthanh_onmicrosoft_com/EQlvuZHJAu5Ph6_St46PwWcBtTikfEbIijwWvdnZQT5zxQ?e=Wcr2Nt)**
+5. **[Hiren Boot](https://bsthanh-my.sharepoint.com/:u:/g/personal/0914678254_bsthanh_onmicrosoft_com/EdeQLS4YD1dPpWt56jx-hDkB_79VBYVB_vnBmZS8zlgg5g?e=OgZ3a5)** **hoặc vô trang chủ [download](https://www.hirensbootcd.org/download/)**
+6. **[NHV Boot bản Extreme](https://bsthanh-my.sharepoint.com/:f:/g/personal/0914678254_bsthanh_onmicrosoft_com/Ev5N8Tm0sLVMn2t-yF5c3CkBgC9p-KFt9GPjNkXQ-WXHDQ?e=BfLZ2g)** **hoặc NHV Boot vô trang chủ có thể download [bản Free mới nhất](https://nhvboot.com/download/)**
+7. **[HKBoot](https://bsthanh-my.sharepoint.com/:u:/g/personal/0914678254_bsthanh_onmicrosoft_com/EUsXa9z3n0xOr9fPniFm9GoB6cslVjpnCbSUpqCfuVa1xw?e=2nJYE2)** 
+8. **[NKBoot_2022_V1.0_Pro](https://bsthanh-my.sharepoint.com/:u:/g/personal/0914678254_bsthanh_onmicrosoft_com/EbHXKwnXfeBEoxbOHgfn7PwB97mSPNtOeSxmELg0y38sMw?e=LYGh0a)**
 9. **[MultiBoot](https://nguyenhoangthuan.com/multiboot/)**
-10. **[Một số source khác](https://bsthanh-my.sharepoint.com/:t:/g/personal/laptopxiaomi_bsthanh_tk/EYpb9TWF0HZCmIdOoofHwTcBoXS2pRHfdK_R4kjadUGDtQ?e=aBbdtm)**
+10. **[Một số source khác](https://bsthanh-my.sharepoint.com/:t:/g/personal/laptopxiaomi_bsthanh_onmicrosoft_com/EYpb9TWF0HZCmIdOoofHwTcBoXS2pRHfdK_R4kjadUGDtQ?e=aBbdtm)**
 
 https://user-images.githubusercontent.com/82578024/204214048-2631b3be-dab4-4797-b1c3-a20a1e0ab095.mp4
 
 # TẠO BOOT CHO USB BẰNG REFUS #
 
-Dùng [Refus.exe](https://bsthanh-my.sharepoint.com/:u:/g/personal/0914678254_bsthanh_tk/EXuFKvk2Er9Gjzn25U7wds8BtwbexjvBw1fwNXgsI3cRLA?e=cjtZYb) tạo boot cho USB thật tiện lợi.
+Dùng [Refus.exe](https://bsthanh-my.sharepoint.com/:u:/g/personal/0914678254_bsthanh_onmicrosoft_com/EXuFKvk2Er9Gjzn25U7wds8BtwbexjvBw1fwNXgsI3cRLA?e=cjtZYb) tạo boot cho USB thật tiện lợi.
 
-**[Một số bản Refus](https://bsthanh-my.sharepoint.com/:f:/g/personal/0914678254_bsthanh_tk/EpwJQroh3TxFnFFpCLB9htABmIGlcirpiCm7u9-TTruXJw?e=vSyV7m)**
+**[Một số bản Refus](https://bsthanh-my.sharepoint.com/:f:/g/personal/0914678254_bsthanh_onmicrosoft_com/EpwJQroh3TxFnFFpCLB9htABmIGlcirpiCm7u9-TTruXJw?e=vSyV7m)**
 
 Bước 1: Mở Rufus, thiết lập thông số tạo USB boot, tại giao diện của Rufus, mục Device, bạn chọn USB của mình. Trong Boot selection bạn chọn Disk or ISO image, rồi nhấn SELECT để duyệt và chọn file ISO.
 
@@ -55,13 +55,13 @@ Như vậy, các bạn đã biết cách tạo USB cài/boot Windows bằng ph�
 
 **Refus không thể đáp ứng trong trường hợp này, vì nó sẽ format tất cả dữ liệu trong ổ cứng di động cho dù bạn có chia nó làm nhiều đĩa**
 
-**Đầu tiên phân ổ đĩa cứng thành một ổ nhỏ khoản 8-16G để làm Boot khởi động với định dạng FAT32 và Primery bằng cách dùng [Partition Wizard Portable 12](https://bsthanh-my.sharepoint.com/:u:/g/personal/laptopxiaomi_bsthanh_tk/ETHjOWXpzY5OgarnNd0FTY8BJ7_dgt5lyrKqtS9DRVuavA?e=4ZN1AO) nếu chưa biết dùng tham khảo [tại đây](http://thuthuatphanmem.vn/cach-chia-phan-vung-o-cung-bang-phan-mem-minitool-partition-wizard/)**
+**Đầu tiên phân ổ đĩa cứng thành một ổ nhỏ khoản 8-16G để làm Boot khởi động với định dạng FAT32 và Primery bằng cách dùng [Partition Wizard Portable 12](https://bsthanh-my.sharepoint.com/:u:/g/personal/laptopxiaomi_bsthanh_onmicrosoft_com/ETHjOWXpzY5OgarnNd0FTY8BJ7_dgt5lyrKqtS9DRVuavA?e=4ZN1AO) nếu chưa biết dùng tham khảo [tại đây](http://thuthuatphanmem.vn/cach-chia-phan-vung-o-cung-bang-phan-mem-minitool-partition-wizard/)**
 
 Tiếp theo: Copy tất cả những gì có trong file NHV-BOOT-2022-945-EXTREME.iso hoặc các file iso boot winPE vào ổ đó.
 
 ## NẠP BOOT CHO NÓ BẰNG BOOTICE ##
 
-Download [Bootice64.exe](https://bsthanh-my.sharepoint.com/:u:/g/personal/0914678254_bsthanh_tk/EaFJKBx0CvNElH3axAP55u8BmlOcaKoTbp-QhokXgc12CA?e=IlA5HU) hoặc [Bootice32.exe](https://bsthanh-my.sharepoint.com/:u:/g/personal/0914678254_bsthanh_tk/EYziEj9EIMZGg3tJhGx0K_IBPE0gEMrAJhueM9k2fRBA1w?e=v7Kz2J) để nạp MBR và nạp boot cho nó
+Download [Bootice64.exe](https://bsthanh-my.sharepoint.com/:u:/g/personal/0914678254_bsthanh_onmicrosoft_com/EaFJKBx0CvNElH3axAP55u8BmlOcaKoTbp-QhokXgc12CA?e=IlA5HU) hoặc [Bootice32.exe](https://bsthanh-my.sharepoint.com/:u:/g/personal/0914678254_bsthanh_onmicrosoft_com/EYziEj9EIMZGg3tJhGx0K_IBPE0gEMrAJhueM9k2fRBA1w?e=v7Kz2J) để nạp MBR và nạp boot cho nó
 
 Mở Bootice lên:
 
