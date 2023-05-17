@@ -53,7 +53,7 @@ Bước 4: Hoàn tất quá trình tạo USB boot, khi chương trình hiện n�
 
 Như vậy, các bạn đã biết cách tạo USB cài/boot Windows bằng phần mềm Rufus rồi đấy. Có thể thấy rằng việc tạo USB boot bằng Rufus khá đơn giản đúng không nào. Để tránh gặp lỗi khi tạo USB boot với Rufus, bạn cần chọn đúng file ISO phù hợp với máy khi tải về (bản 32bit hoặc 64bit). 
 
-# TẠO BOOT CHO Ổ CỨNG DI ĐỘNG #
+# TẠO BOOT CHO Ổ CỨNG DI ĐỘNG, HDD BOX #
 
 **Refus không thể đáp ứng trong trường hợp này, vì nó sẽ format tất cả dữ liệu trong ổ cứng di động cho dù bạn có chia nó làm nhiều đĩa**
 
@@ -63,7 +63,7 @@ Như vậy, các bạn đã biết cách tạo USB cài/boot Windows bằng ph�
 
 - Làm theo hướng dẫn đưa ra là xong!
 
-**B. Dùng Bootice.exe*"
+**B. Dùng Bootice.exe**
 
 ![1](https://user-images.githubusercontent.com/82578024/165237549-0a3579a7-2135-47b2-aba7-ce8c6c392a10.jpg)
 
