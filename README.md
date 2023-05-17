@@ -55,22 +55,23 @@ Như vậy, các bạn đã biết cách tạo USB cài/boot Windows bằng ph�
 
 # TẠO BOOT CHO Ổ CỨNG DI ĐỘNG #
 
-![1](https://user-images.githubusercontent.com/82578024/165237549-0a3579a7-2135-47b2-aba7-ce8c6c392a10.jpg)
-
 **Refus không thể đáp ứng trong trường hợp này, vì nó sẽ format tất cả dữ liệu trong ổ cứng di động cho dù bạn có chia nó làm nhiều đĩa**
+
+**A. Dùng source Anhdv Boot**
+
+- Chạy file One_Click_Anhdv_Boot.bat
+
+- Làm theo hướng dẫn đưa ra là xong!
+
+**B. Dùng Bootice.exe*"
+
+![1](https://user-images.githubusercontent.com/82578024/165237549-0a3579a7-2135-47b2-aba7-ce8c6c392a10.jpg)
 
 **Đầu tiên phân ổ đĩa cứng thành một ổ nhỏ khoản 8-16G để làm Boot khởi động với định dạng FAT32 và Primery bằng cách dùng [Partition Wizard Portable 12](https://bsthanh-my.sharepoint.com/:u:/g/personal/laptopxiaomi_bsthanh_onmicrosoft_com/ETHjOWXpzY5OgarnNd0FTY8BJ7_dgt5lyrKqtS9DRVuavA?e=4ZN1AO) nếu chưa biết dùng tham khảo [tại đây](http://thuthuatphanmem.vn/cach-chia-phan-vung-o-cung-bang-phan-mem-minitool-partition-wizard/)**
 
 Tiếp theo: Copy tất cả những gì có trong file NHV-BOOT-2022-945-EXTREME.iso hoặc các file iso boot winPE vào ổ đó.
 
 ## NẠP BOOT CHO NÓ BẰNG BOOTICE ##
-
-**A. Dùng source Anhdv Boot**
-
-- Chạy file One_Click_Anhdv_Boot.bat
-- Làm theo hướng dẫn đưa ra là xong!
-
-**B. Dùng Bootice.exe*"
 
 Download [Bootice64.exe](https://bsthanh-my.sharepoint.com/:u:/g/personal/0914678254_bsthanh_onmicrosoft_com/EaFJKBx0CvNElH3axAP55u8BmlOcaKoTbp-QhokXgc12CA?e=IlA5HU) hoặc [Bootice32.exe](https://bsthanh-my.sharepoint.com/:u:/g/personal/0914678254_bsthanh_onmicrosoft_com/EYziEj9EIMZGg3tJhGx0K_IBPE0gEMrAJhueM9k2fRBA1w?e=v7Kz2J) để nạp MBR và nạp boot cho nó
 
