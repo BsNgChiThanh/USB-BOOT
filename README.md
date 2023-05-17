@@ -65,6 +65,13 @@ Tiếp theo: Copy tất cả những gì có trong file NHV-BOOT-2022-945-EXTREM
 
 ## NẠP BOOT CHO NÓ BẰNG BOOTICE ##
 
+**A. Dùng source Anhdv Boot**
+
+- Chạy file One_Click_Anhdv_Boot.bat
+- Làm theo hướng dẫn đưa ra là xong!
+
+**B. Dùng Bootice.exe*"
+
 Download [Bootice64.exe](https://bsthanh-my.sharepoint.com/:u:/g/personal/0914678254_bsthanh_onmicrosoft_com/EaFJKBx0CvNElH3axAP55u8BmlOcaKoTbp-QhokXgc12CA?e=IlA5HU) hoặc [Bootice32.exe](https://bsthanh-my.sharepoint.com/:u:/g/personal/0914678254_bsthanh_onmicrosoft_com/EYziEj9EIMZGg3tJhGx0K_IBPE0gEMrAJhueM9k2fRBA1w?e=v7Kz2J) để nạp MBR và nạp boot cho nó
 
 Mở Bootice lên:
