@@ -59,9 +59,9 @@ Như vậy, các bạn đã biết cách tạo USB cài/boot Windows bằng ph�
 
 **A. Dùng source Anhdv Boot**
 
-- Chạy file One_Click_Anhdv_Boot.bat
+- Chạy file One_Click_Anhdv_Boot.bat (Trong mỗi phiên bản đều có file này)
 
-- Làm theo hướng dẫn đưa ra là xong!
+- Làm theo đề xuất của file này đưa ra là xong!
 
 **B. Dùng Bootice.exe**
 
