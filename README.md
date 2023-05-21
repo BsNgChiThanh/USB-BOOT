@@ -19,7 +19,7 @@ Trên mạng có rất nhiều USB boot của các tác giả khác nhau, tùy b
 8. **[NKBoot_2022_V1.0_Pro](https://bsthanh-my.sharepoint.com/:u:/g/personal/0914678254_bsthanh_onmicrosoft_com/EbHXKwnXfeBEoxbOHgfn7PwB97mSPNtOeSxmELg0y38sMw?e=LYGh0a)**
 9. **[MultiBoot](https://nguyenhoangthuan.com/multiboot/)**
 10. **[Một số source khác](https://bsthanh-my.sharepoint.com/:t:/g/personal/laptopxiaomi_bsthanh_onmicrosoft_com/EYpb9TWF0HZCmIdOoofHwTcBoXS2pRHfdK_R4kjadUGDtQ?e=aBbdtm)**
-11. [Partition Wizard Portable](https://bsthanh-my.sharepoint.com/:f:/g/personal/0914678254_bsthanh_onmicrosoft_com/EiXvU0kbVAJPiqqi0tdklokBmiUW4l8GZZPki14PbFAq_Q?e=3pshcm)
+11. **[Partition Wizard Portable](https://bsthanh-my.sharepoint.com/:f:/g/personal/0914678254_bsthanh_onmicrosoft_com/EiXvU0kbVAJPiqqi0tdklokBmiUW4l8GZZPki14PbFAq_Q?e=3pshcm)**
 
 https://user-images.githubusercontent.com/82578024/204214048-2631b3be-dab4-4797-b1c3-a20a1e0ab095.mp4
 
