@@ -55,50 +55,97 @@ Như vậy, các bạn đã biết cách tạo USB cài/boot Windows bằng ph�
 
 # TẠO BOOT CHO Ổ CỨNG DI ĐỘNG, HDD BOX #
 
-**Refus không thể đáp ứng trong trường hợp này, vì nó sẽ format tất cả dữ liệu trong ổ cứng di động cho dù bạn có chia nó làm nhiều đĩa**
+**Refus không thể đáp ứng trong trường hợp này, vì nó sẽ format tất cả dữ liệu trong ổ cứng di động cho dù bạn có chia nó làm nhiều đĩa, giải pháp tối ưu là làm theo hướng dẫn của Anhdv Boot**
 
-**A. Dùng source Anhdv Boot**
+## Cách 1: Tạo boot cho ổ cứng di động HDD Box với công cụ 1 click Anhdv Boot ##
 
-- Chạy file One_Click_Anhdv_Boot.bat (Trong mỗi phiên bản đều có file này)
+- Ưu điểm
+  - Việc tạo boot cho HDD Box diễn ra hoàn toàn tự động.
+  - Không làm mất dữ liệu hiện có trên ổ cứng gắn ngoài HDD Box
+  - Công cụ sẽ tạo ra 1 phân vùng FAT32 ở cuối của HDD Box làm Boot với dung lượng do bạn lựa chọn.
+  - Có hỗ trợ cả 2 chuẩn UEFI và Legacy
+- Nhược điểm
+  - Với một số ít máy thì việc tạo phân vùng boot ở cuối ổ cứng sẽ gây lỗi không boot được
 
-- Làm theo đề xuất của file này đưa ra là xong!
+### Các bước tạo boot cho ổ cứng di động HDD Box ###
 
-**B. Dùng Bootice.exe**
+Tải về Anhdv Boot và công cụ 1 click tạo boot theo bài viết này Cắm ổ cứng gắn ngoài vào và chạy công cụ One_Click_Anhdv_Boot.exe. Các bạn lần lượt làm theo hướng dẫn dưới đây:
 
-![1](https://user-images.githubusercontent.com/82578024/165237549-0a3579a7-2135-47b2-aba7-ce8c6c392a10.jpg)
+Ổ cứng gắn ngoài lúc này là 500Gb và gần đầy dữ liệu
 
-**Đầu tiên phân ổ đĩa cứng thành một ổ nhỏ khoản 8-16G để làm Boot khởi động với định dạng FAT32 và Primery bằng cách dùng [Partition Wizard Portable 12](https://bsthanh-my.sharepoint.com/:u:/g/personal/laptopxiaomi_bsthanh_onmicrosoft_com/ETHjOWXpzY5OgarnNd0FTY8BJ7_dgt5lyrKqtS9DRVuavA?e=4ZN1AO) nếu chưa biết dùng tham khảo [tại đây](http://thuthuatphanmem.vn/cach-chia-phan-vung-o-cung-bang-phan-mem-minitool-partition-wizard/)**
+![image](https://github.com/BsNgChiThanh/USB-BOOT/assets/82578024/b999bae5-8a4f-4905-8bf6-d06f155da03d)
 
-Tiếp theo: Copy tất cả những gì có trong file NHV-BOOT-2022-945-EXTREME.iso hoặc các file iso boot winPE vào ổ đó.
+Chọn ngôn ngữ
 
-## NẠP BOOT CHO NÓ BẰNG BOOTICE ##
+![image](https://github.com/BsNgChiThanh/USB-BOOT/assets/82578024/a0756c0d-6a45-4baf-9efc-6fe93a0b2980)
 
-Download [Bootice64.exe](https://bsthanh-my.sharepoint.com/:u:/g/personal/0914678254_bsthanh_onmicrosoft_com/EaFJKBx0CvNElH3axAP55u8BmlOcaKoTbp-QhokXgc12CA?e=IlA5HU) hoặc [Bootice32.exe](https://bsthanh-my.sharepoint.com/:u:/g/personal/0914678254_bsthanh_onmicrosoft_com/EYziEj9EIMZGg3tJhGx0K_IBPE0gEMrAJhueM9k2fRBA1w?e=v7Kz2J) để nạp MBR và nạp boot cho nó
+Nhập 1, rồi bấm Enter (từ đây sau khi nhập xong thì bấm Enter)
 
-Mở Bootice lên:
+Chọn thiết bị (ổ cứng gắn ngoài HDD Box)
 
-![1](https://user-images.githubusercontent.com/82578024/165209316-cbf4ce94-52d2-411f-ad67-0268e1468c70.jpg)
+![image](https://github.com/BsNgChiThanh/USB-BOOT/assets/82578024/3290c520-55a4-414d-900d-083b69b7b248)
 
-Sổ xuống chọn ổ đĩa cần tạo boot, chọn Process MBR
+Ổ cứng gắn ngoài của mình có Thứ tự là 2, mình nhập 2
 
-![1](https://user-images.githubusercontent.com/82578024/165209756-92724e93-049f-4a34-afe9-380e1c4d9eea.jpg)
+Nhập dung lượng phân vùng HDD-BOOT
 
-Chọn vào mục Windows NT 5.x / 6.x MBR, chọn Install /Config
+![image](https://github.com/BsNgChiThanh/USB-BOOT/assets/82578024/183fde20-8420-4002-ac20-893b509de40d)
 
-Bảng thông báo hiện lên, bạn chọn Windows NT 6.x MBR, và OK để hoàn tất.
+Hình trên liệt kê các modul bắt buộc phải boot trên phân vùng HDD-BOOT, dùng thêm modul nào thì bạn nhập thêm. Mình dùng Mini Windows 7/8 + Bitdefender nên mình nhập 1000+700. Nếu ổ HDD Box dung lượng lớn, bạn cứ nhập nhiều chút để sau này đỡ mất công thay đổi kích thước nhé.
 
-![1](https://user-images.githubusercontent.com/82578024/165209937-ed84ded5-e82c-47c4-8874-4f1f933b9717.jpg)
+![image](https://github.com/BsNgChiThanh/USB-BOOT/assets/82578024/e1296330-c4d9-452a-827c-4ee6d3b2f02b)
 
-Nạp PBR cho usb boot uefi legacy: PBR sẽ có nhiệm vụ quản lý khả năng boot của mỗi phân vùng của thiết bị.
+Việc cần làm là đợi đến khi quá trình tạo boot cho ổ cứng di động HDD Box kết thúc.
 
-![1](https://user-images.githubusercontent.com/82578024/165210156-28a42ef2-3f9d-4860-ab4d-2079db3eb30f.jpg)
+![image](https://github.com/BsNgChiThanh/USB-BOOT/assets/82578024/4201da08-eb72-4403-929c-7f6fdfa2f9c5)
 
-Khởi động BootIce, chọn Process PBR
+Khi đã tạo xong HDD Boot, nếu chạy lại 1 click thì sau khi chọn ngôn ngữ và thiết bị bạn sẽ có các lựa chọn:
 
-![1](https://user-images.githubusercontent.com/82578024/165210484-fd6df592-2a8f-4147-8680-93af52ab2361.jpg)
+![image](https://github.com/BsNgChiThanh/USB-BOOT/assets/82578024/9c74ca52-4753-43c2-8906-d93252ebccf6)
 
-Chọn phân vùng cần nạp PBR, trong hình trên USB của tôi đã chia làm 2 phân vùng. Vì thế tôi sẽ chọn phân vùng USB-Boot để nạp PBR. Nạp PBR cho phân vùng USB-Boot là GRUB4DOS.
+Chọn các mục tương ứng nếu cần.
 
-![1](https://user-images.githubusercontent.com/82578024/165210735-29fa982b-cf1f-4462-ac42-92fdc06cf9db.jpg)
+## Cách 2: Tạo boot cho ổ cứng di động HDD Box thủ công không mất dữ liệu ##
 
-Bước này, bạn để mặc định và bấm OK để xác nhận. Như vậy, chúng ta đã nạp  boot cho phân vùng thành công.
+### Tạo phân vùng khởi động cho HDD Boot ###
+
+Tải về phần mềm [Partition Wizard Portale](https://bsthanh-my.sharepoint.com/:f:/g/personal/0914678254_bsthanh_onmicrosoft_com/EiXvU0kbVAJPiqqi0tdklokBmiUW4l8GZZPki14PbFAq_Q?e=zoNReL)
+
+Chạy phần mềm PartitonWizard với quyền Admin, tạo 1 phân vùng Unallocated ở đầu của ổ cứng di động làm phân vùng boot. Nếu HDD Box của bạn chứa sẵn nhiều dữ liệu, thì quá trình tạo phân vùng boot này sẽ mất chút thời gian. Ngoài ra bạn có thể tạo phân vùng Boot ở cuối ổ HDD Box để giảm thời gian, tuy nhiên một số máy khó tính sẽ không boot được.
+
+![image](https://github.com/BsNgChiThanh/USB-BOOT/assets/82578024/48ea5daa-1028-4efd-ad3b-d72dacd058de)
+
+Nhấp phải chuột vào phân vùng Unallocated và chọn Create
+
+![image](https://github.com/BsNgChiThanh/USB-BOOT/assets/82578024/9638482c-145f-437d-989a-a647bba18036)
+
+Các thông số của phân vùng HDD-BOOT đặt như hình trên.
+
+![image](https://github.com/BsNgChiThanh/USB-BOOT/assets/82578024/a08ed68f-e8a5-43b6-a4a1-0a91ed1b0bab)
+
+Nhấp phải chuột vào phân vùng boot HDD-BOOT vừa tạo và chọn Set Active.
+
+Copy dữ liệu vào phân vùng HDD-BOOT
+
+Nhấp đúp vào file ISO Anhdv Boot để mở lên (với Windows 8.1, 10), copy tất cả các file và thư mục vào phân vùng HDD-BOOT
+
+![image](https://github.com/BsNgChiThanh/USB-BOOT/assets/82578024/5e5caa9e-571a-4f8b-964a-7e26b60a3269)
+
+Có thể dùng 7zip, nhấp chuột phải vào file ISO Anhdv Boot > 7zip > Open archive
+
+![image](https://github.com/BsNgChiThanh/USB-BOOT/assets/82578024/06ec05c9-2077-4a13-9c39-9c2e2952466e)
+
+Chọn tất cả các file rồi nhấp chuột phải > Copy To > dẫn đến phân vùng HDD_Boot. Để sử dụng tính năng Find and Boot OS From HDD của Anhdv Boot 2019, thì cần phải xóa 2 file BOOTMR và bootmgr.efi trên phân vùng HDD-Boot.
+
+Bộ cài Windows hay các gói mở rộng khác thì các bạn tạo thư mục ISO trên phân vùng NTFS của ổ gắn ngoài và copy vào đó. Nếu gói mở rộng nào yêu cầu thư mục khác thì làm như hướng dẫn. Gói mở rộng của Anhdv Boot mời bạn xem [tại đây](https://anhdvboot.com/goi-mo-rong)
+
+### Nạp MBR cho HDD Boot ###
+
+Các bước trên là để copy dữ liệu, bây giờ cần phải nạp MBR cho HDD Boot. Có 2 lựa chọn bộ nạp khởi động (bootloader) đó là Grub2 và Grub4dos. Grub4dos tương thích với nhiều loại máy hơn, còn Grub2 hỗ trợ Linux và Antivirus tốt hơn.
+
+Tham khảo thêm: [Cách nạp MBR và thay đổi Bootloader](https://anhdvboot.com/huong-dan/cach-tao-usb-boot-don-gian-voi-ultraiso/#Cach_thay_doi_Bootloader_cho_USB)
+
+Cách ẩn phân vùng HDD-BOOT và bảo vệ HDD Box khỏi virus
+Muốn tạo HDD Boot ẩn cho ổ cứng di động, bạn Cut thư mục APPS trên phân vùng HDD-BOOT sang phân vùng không ẩn của HDD Box. Dùng phần mềm partition Wizard hoặc BootIce ẩn phân vùng HDD-BOOT đi. Với Partiton Wizard thì nhấp chuột phải vào phân vùng HDD-BOOT > Hide partition. Với BootIce > Parts Manage > nhấp chọn phân vùng HDD-BOOT > Hide.
+
+Kết hợp với [bảo vệ phân vùng khác bằng NTFS Drive Protection](https://anh-dv.com/usb-boot/bao-ve-usb-khoi-virus-chong-ghi-xoa-du-lieu) là không lo ổ bị virus làm hỏng file.
