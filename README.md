@@ -150,3 +150,5 @@ Cách ẩn phân vùng HDD-BOOT và bảo vệ HDD Box khỏi virus
 Muốn tạo HDD Boot ẩn cho ổ cứng di động, bạn Cut thư mục APPS trên phân vùng HDD-BOOT sang phân vùng không ẩn của HDD Box. Dùng phần mềm partition Wizard hoặc BootIce ẩn phân vùng HDD-BOOT đi. Với Partiton Wizard thì nhấp chuột phải vào phân vùng HDD-BOOT > Hide partition. Với BootIce > Parts Manage > nhấp chọn phân vùng HDD-BOOT > Hide.
 
 Kết hợp với [bảo vệ phân vùng khác bằng NTFS Drive Protection](https://anh-dv.com/usb-boot/bao-ve-usb-khoi-virus-chong-ghi-xoa-du-lieu) là không lo ổ bị virus làm hỏng file.
+
+## [BẤM VÀO ĐÂY, NẾU MUỐN ỦNG HỘ SỰ HOẠT ĐỘNG CỦA KÊNH](https://me.momo.vn/OeIRuaTbfqsmFyiataCM/MvbmqGVrVjLpbYA) ##
