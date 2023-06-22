@@ -25,7 +25,7 @@ https://user-images.githubusercontent.com/82578024/204214048-2631b3be-dab4-4797-
 
 # TẠO BOOT CHO USB BẰNG REFUS #
 
-Dùng [Refus.exe](https://bsthanh-my.sharepoint.com/:u:/g/personal/0914678254_bsthanh_onmicrosoft_com/EXuFKvk2Er9Gjzn25U7wds8BtwbexjvBw1fwNXgsI3cRLA?e=cjtZYb) tạo boot cho USB thật tiện lợi.
+Dùng [Refus.exe](https://bsthanh-my.sharepoint.com/:u:/g/personal/0914678254_bsthanh_onmicrosoft_com/EXuFKvk2Er9Gjzn25U7wds8BtwbexjvBw1fwNXgsI3cRLA?e=cjtZYb) hoặc download từ [trang chủ](https://rufus.ie/vi/) tạo boot cho USB thật tiện lợi.
 
 **[Một số bản Refus](https://bsthanh-my.sharepoint.com/:f:/g/personal/0914678254_bsthanh_onmicrosoft_com/EpwJQroh3TxFnFFpCLB9htABmIGlcirpiCm7u9-TTruXJw?e=vSyV7m)**
 
