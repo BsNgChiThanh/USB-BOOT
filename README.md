@@ -18,8 +18,7 @@ Trên mạng có rất nhiều USB boot của các tác giả khác nhau, tùy b
 7. **[HKBoot](https://bsthanh-my.sharepoint.com/:u:/g/personal/0914678254_bsthanh_onmicrosoft_com/EUsXa9z3n0xOr9fPniFm9GoB6cslVjpnCbSUpqCfuVa1xw?e=2nJYE2)** 
 8. **[NKBoot_2022_V1.0_Pro](https://bsthanh-my.sharepoint.com/:u:/g/personal/0914678254_bsthanh_onmicrosoft_com/EbHXKwnXfeBEoxbOHgfn7PwB97mSPNtOeSxmELg0y38sMw?e=LYGh0a)**
 9. **[MultiBoot](https://nguyenhoangthuan.com/multiboot/)**
-10. **[Một số source khác](https://bsthanh-my.sharepoint.com/:t:/g/personal/laptopxiaomi_bsthanh_onmicrosoft_com/EYpb9TWF0HZCmIdOoofHwTcBoXS2pRHfdK_R4kjadUGDtQ?e=aBbdtm)**
-11. **[Partition Wizard Portable](https://bsthanh-my.sharepoint.com/:f:/g/personal/0914678254_bsthanh_onmicrosoft_com/EiXvU0kbVAJPiqqi0tdklokBmiUW4l8GZZPki14PbFAq_Q?e=3pshcm)**
+10. **[Partition Wizard Portable](https://bsthanh-my.sharepoint.com/:f:/g/personal/0914678254_bsthanh_onmicrosoft_com/EiXvU0kbVAJPiqqi0tdklokBmiUW4l8GZZPki14PbFAq_Q?e=3pshcm)**
 
 https://user-images.githubusercontent.com/82578024/204214048-2631b3be-dab4-4797-b1c3-a20a1e0ab095.mp4
 
@@ -105,5 +104,3 @@ Khi đã tạo xong HDD Boot, nếu chạy lại 1 click thì sau khi chọn ng�
 ![image](https://github.com/BsNgChiThanh/USB-BOOT/assets/82578024/9c74ca52-4753-43c2-8906-d93252ebccf6)
 
 Chọn các mục tương ứng nếu cần, có thể chọn cập nhật phiên bản mới.
-
-## [BẤM VÀO ĐÂY, NẾU MUỐN ỦNG HỘ SỰ HOẠT ĐỘNG CỦA KÊNH](https://me.momo.vn/OeIRuaTbfqsmFyiataCM/MvbmqGVrVjLpbYA) ##
