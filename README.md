@@ -58,7 +58,7 @@ Như vậy, các bạn đã biết cách tạo USB cài/boot Windows bằng ph�
 
 **Refus không thể đáp ứng trong trường hợp này, vì nó sẽ format tất cả dữ liệu trong ổ cứng di động cho dù bạn có chia nó làm nhiều đĩa, giải pháp tối ưu là làm theo hướng dẫn của Anhdv Boot**
 
-## Cách 1: Tạo boot cho ổ cứng di động HDD Box với công cụ 1 click Anhdv Boot ##
+## Tạo boot cho ổ cứng di động HDD Box với công cụ 1 click Anhdv Boot ##
 
 - Ưu điểm
   - Việc tạo boot cho HDD Box diễn ra hoàn toàn tự động.
@@ -104,51 +104,6 @@ Khi đã tạo xong HDD Boot, nếu chạy lại 1 click thì sau khi chọn ng�
 
 ![image](https://github.com/BsNgChiThanh/USB-BOOT/assets/82578024/9c74ca52-4753-43c2-8906-d93252ebccf6)
 
-Chọn các mục tương ứng nếu cần.
-
-## Cách 2: Tạo boot cho ổ cứng di động HDD Box thủ công không mất dữ liệu ##
-
-### Tạo phân vùng khởi động cho HDD Boot ###
-
-Tải về phần mềm [Partition Wizard Portale](https://bsthanh-my.sharepoint.com/:f:/g/personal/0914678254_bsthanh_onmicrosoft_com/EiXvU0kbVAJPiqqi0tdklokBmiUW4l8GZZPki14PbFAq_Q?e=zoNReL)
-
-Chạy phần mềm PartitonWizard với quyền Admin, tạo 1 phân vùng Unallocated ở đầu của ổ cứng di động làm phân vùng boot. Nếu HDD Box của bạn chứa sẵn nhiều dữ liệu, thì quá trình tạo phân vùng boot này sẽ mất chút thời gian. Ngoài ra bạn có thể tạo phân vùng Boot ở cuối ổ HDD Box để giảm thời gian, tuy nhiên một số máy khó tính sẽ không boot được.
-
-![image](https://github.com/BsNgChiThanh/USB-BOOT/assets/82578024/48ea5daa-1028-4efd-ad3b-d72dacd058de)
-
-Nhấp phải chuột vào phân vùng Unallocated và chọn Create
-
-![image](https://github.com/BsNgChiThanh/USB-BOOT/assets/82578024/9638482c-145f-437d-989a-a647bba18036)
-
-Các thông số của phân vùng HDD-BOOT đặt như hình trên.
-
-![image](https://github.com/BsNgChiThanh/USB-BOOT/assets/82578024/a08ed68f-e8a5-43b6-a4a1-0a91ed1b0bab)
-
-Nhấp phải chuột vào phân vùng boot HDD-BOOT vừa tạo và chọn Set Active.
-
-Copy dữ liệu vào phân vùng HDD-BOOT
-
-Nhấp đúp vào file ISO Anhdv Boot để mở lên (với Windows 8.1, 10), copy tất cả các file và thư mục vào phân vùng HDD-BOOT
-
-![image](https://github.com/BsNgChiThanh/USB-BOOT/assets/82578024/5e5caa9e-571a-4f8b-964a-7e26b60a3269)
-
-Có thể dùng 7zip, nhấp chuột phải vào file ISO Anhdv Boot > 7zip > Open archive
-
-![image](https://github.com/BsNgChiThanh/USB-BOOT/assets/82578024/06ec05c9-2077-4a13-9c39-9c2e2952466e)
-
-Chọn tất cả các file rồi nhấp chuột phải > Copy To > dẫn đến phân vùng HDD_Boot. Để sử dụng tính năng Find and Boot OS From HDD của Anhdv Boot 2019, thì cần phải xóa 2 file BOOTMR và bootmgr.efi trên phân vùng HDD-Boot.
-
-Bộ cài Windows hay các gói mở rộng khác thì các bạn tạo thư mục ISO trên phân vùng NTFS của ổ gắn ngoài và copy vào đó. Nếu gói mở rộng nào yêu cầu thư mục khác thì làm như hướng dẫn. Gói mở rộng của Anhdv Boot mời bạn xem [tại đây](https://anhdvboot.com/goi-mo-rong)
-
-### Nạp MBR cho HDD Boot ###
-
-Các bước trên là để copy dữ liệu, bây giờ cần phải nạp MBR cho HDD Boot. Có 2 lựa chọn bộ nạp khởi động (bootloader) đó là Grub2 và Grub4dos. Grub4dos tương thích với nhiều loại máy hơn, còn Grub2 hỗ trợ Linux và Antivirus tốt hơn.
-
-Tham khảo thêm: [Cách nạp MBR và thay đổi Bootloader](https://anhdvboot.com/huong-dan/cach-tao-usb-boot-don-gian-voi-ultraiso/#Cach_thay_doi_Bootloader_cho_USB)
-
-Cách ẩn phân vùng HDD-BOOT và bảo vệ HDD Box khỏi virus
-Muốn tạo HDD Boot ẩn cho ổ cứng di động, bạn Cut thư mục APPS trên phân vùng HDD-BOOT sang phân vùng không ẩn của HDD Box. Dùng phần mềm partition Wizard hoặc BootIce ẩn phân vùng HDD-BOOT đi. Với Partiton Wizard thì nhấp chuột phải vào phân vùng HDD-BOOT > Hide partition. Với BootIce > Parts Manage > nhấp chọn phân vùng HDD-BOOT > Hide.
-
-Kết hợp với [bảo vệ phân vùng khác bằng NTFS Drive Protection](https://anh-dv.com/usb-boot/bao-ve-usb-khoi-virus-chong-ghi-xoa-du-lieu) là không lo ổ bị virus làm hỏng file.
+Chọn các mục tương ứng nếu cần, có thể chọn cập nhật phiên bản mới.
 
 ## [BẤM VÀO ĐÂY, NẾU MUỐN ỦNG HỘ SỰ HOẠT ĐỘNG CỦA KÊNH](https://me.momo.vn/OeIRuaTbfqsmFyiataCM/MvbmqGVrVjLpbYA) ##
