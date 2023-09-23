@@ -61,10 +61,11 @@ Như vậy, các bạn đã biết cách tạo USB cài/boot Windows bằng ph�
 
 - Ưu điểm
   - Việc tạo boot cho HDD Box diễn ra hoàn toàn tự động.
-  - Không làm mất dữ liệu hiện có trên ổ cứng gắn ngoài HDD Box
-  - Công cụ sẽ tạo ra 1 phân vùng FAT32 ở cuối của HDD Box làm Boot với dung lượng do bạn lựa chọn.
   - Có hỗ trợ cả 2 chuẩn UEFI và Legacy
+  - Có thể tạo ra phân vùng Boot ẩn.
+  - Có thể thay đổi ảnh nền cua WinPE
   - Có thể cập nhật phiên bản mới mà không mất dữ liệu
+  - ...
 
 ### Các bước tạo boot cho ổ cứng di động HDD Box ###
 
