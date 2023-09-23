@@ -64,8 +64,7 @@ Như vậy, các bạn đã biết cách tạo USB cài/boot Windows bằng ph�
   - Không làm mất dữ liệu hiện có trên ổ cứng gắn ngoài HDD Box
   - Công cụ sẽ tạo ra 1 phân vùng FAT32 ở cuối của HDD Box làm Boot với dung lượng do bạn lựa chọn.
   - Có hỗ trợ cả 2 chuẩn UEFI và Legacy
-- Nhược điểm
-  - Với một số ít máy thì việc tạo phân vùng boot ở cuối ổ cứng sẽ gây lỗi không boot được
+  - Có thể cập nhật phiên bản mới mà không mất dữ liệu
 
 ### Các bước tạo boot cho ổ cứng di động HDD Box ###
 
