@@ -63,7 +63,7 @@ Như vậy, các bạn đã biết cách tạo USB cài/boot Windows bằng ph�
   - Việc tạo boot cho HDD Box diễn ra hoàn toàn tự động.
   - Có hỗ trợ cả 2 chuẩn UEFI và Legacy
   - Có thể tạo ra phân vùng Boot ẩn.
-  - Có thể thay đổi ảnh nền cua WinPE
+  - Có thể thay đổi ảnh nền của WinPE
   - Có thể cập nhật phiên bản mới mà không mất dữ liệu
   - ...
 
